@@ -2,7 +2,7 @@
 
 <br>
 <h1 align = "center">Foodbands</h1>
-<a href="#"><img width="100%" height="auto" src="/Users/AnushanR/Documents/Web Development/Foodands/assets/img/Banner.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="assets/img/Banner.png" height="175px"/></a>
 
 
 
